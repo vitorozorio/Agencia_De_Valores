@@ -1,4 +1,4 @@
-package br.treinamentoLoiane.exer1.model;
+package BR.COM.AGENCIA_DE_VALORES.model;
 
 public final class Poupanca extends ContaBancaria implements Operacoes  {
 
