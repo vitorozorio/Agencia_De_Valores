@@ -1,6 +1,6 @@
 package BR.COM.AGENCIA_DE_VALORES.model;
 
-public class ContaPoupanca extends Cliente{
+public class ContaPoupanca extends Cliente implements Metos_Saque_Deposito{
 
     private int id;
     protected double rendimento;
