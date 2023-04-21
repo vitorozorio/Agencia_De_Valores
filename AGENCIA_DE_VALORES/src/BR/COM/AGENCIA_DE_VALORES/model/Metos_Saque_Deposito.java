@@ -7,7 +7,8 @@ public interface Metos_Saque_Deposito  {
     }
 
     public default double deposito(double valor) {
-        return 0;
+
+        return valor;
     }
 
 
