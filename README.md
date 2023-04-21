@@ -2,10 +2,12 @@
 
 ## requisitos do sistema 
 
-**Elabore uma classe ContaBancaria com os seguintes atributos:** 
-* nomeCliente
+**Elabore uma classe Cliente com os seguintes atributos:** 
+* id
 * numConta
-* saldo
+* nomeCliente
+* salario
+* saldo 
 
 **E os seguintes métodos:**
 * sacar (o saldo não pode ficar negativo)
