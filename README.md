@@ -31,8 +31,6 @@ seguintes características:**
 * Sacar um valor das contas
 * Depositar
 * Mostrar um novo saldo a partir de um rendimento
-* Mostrar os dados da conta do cliente
-
 
 ## integre no sistema !!!!
 
