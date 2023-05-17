@@ -1,4 +1,5 @@
 package BR.COM.AGENCIA_DE_VALORES.model;
+//usei uma classe abstrata para não ter muito retrabalho
 
 public abstract class Cliente {
 
